@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhilshrivas
-- 👀 I’m interested music
+- 👀 I’m interested in music
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on.
 - 📫 How to reach me akhilshrivas0@gmail.com
