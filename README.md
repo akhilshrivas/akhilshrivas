@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Akhil Shrivas
+<h1 align="center">👋 Hi, I'm Akhil Shrivas</h1>
 
-> Software, Data & AI Engineer | Architecting scalable data pipelines, cloud infrastructure, and intelligent AI agents.
+<p align="center">
+  <b>Software, Data & AI Engineer</b><br>
+  Architecting scalable data pipelines, cloud infrastructure, and intelligent AI agents.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Building+robust+backend+systems;Architecting+intelligent+AI+agents;Optimizing+modern+data+stacks" alt="Typing SVG" />
